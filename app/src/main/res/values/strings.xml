@@ -11,4 +11,7 @@
     <string name="home_label">Home</string>
     <string name="settings_label">Settings</string>
     <string name="status">Status:</string>
+    <string name="choose_location">Choose Location</string>
+    <string name="km">KM</string>
+    <string name="save">save</string>
 </resources>

@@ -7,6 +7,7 @@ import android.view.MenuItem
 import com.zeyadassem.slate.R
 import com.zeyadassem.slate.ui.utils.UiNavigator
 import kotlinx.android.synthetic.main.activity_main.*
+import kotlinx.android.synthetic.main.toolbar.*
 
 class MainActivity : AppCompatActivity() {
 
