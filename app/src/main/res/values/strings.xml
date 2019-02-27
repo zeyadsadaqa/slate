@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">Slate</string>
     <string name="settings">Settings</string>
+    <string name="point">Point:</string>
+    <string name="radius">Radius:</string>
+    <string name="wifi_names">WiFi Name:</string>
+    <string name="status_within_range">You are located inside of the geofence area.</string>
+    <string name="status_out_range">You are <font color="#D62619">not </font>located inside of the geofence area.</string>
+
+    <!--Activity labels-->
+    <string name="home_label">Home</string>
+    <string name="settings_label">Settings</string>
+    <string name="status">Status:</string>
 </resources>
